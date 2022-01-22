@@ -1,0 +1,36 @@
+.edit{
+    width: 250;
+    height:200;
+    border-radius: 22px;
+    margin-top: 10px;
+    
+
+}
+
+
+
+.test_imageresult{
+font-family: cursive;
+font-size:25px;
+border: rgb(185, 150, 137) solid 2px;
+border-radius:28px;
+background-color: rgb(240, 214, 181);
+padding-left: 43px;
+}
+.mini_result{
+    color:darkslategray;
+    font-size:24px;
+    font-family: monospace;
+}
+
+body{
+    background-color: rgb(197, 168, 148);
+    color:rgb(133, 111, 82)
+}
+
+#Whole_result{
+   font-size:26px;
+    font-family:monospace;
+    color:rgb(61, 23, 25);
+    background-color:rgba(158, 88, 88, 0.39)
+}
